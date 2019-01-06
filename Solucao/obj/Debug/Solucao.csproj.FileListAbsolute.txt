@@ -1,0 +1,11 @@
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Solucao.exe.config
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Solucao.exe
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Solucao.pdb
+D:\Projetos\AspNet\Solucao\Solucao\obj\Debug\Solucao.csprojAssemblyReference.cache
+D:\Projetos\AspNet\Solucao\Solucao\obj\Debug\Solucao.csproj.CoreCompileInputs.cache
+D:\Projetos\AspNet\Solucao\Solucao\obj\Debug\Solucao.exe
+D:\Projetos\AspNet\Solucao\Solucao\obj\Debug\Solucao.pdb
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Newtonsoft.Json.pdb
+D:\Projetos\AspNet\Solucao\Solucao\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\AspNet\Solucao\Solucao\obj\Debug\Solucao.csproj.CopyComplete
