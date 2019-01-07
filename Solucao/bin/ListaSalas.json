@@ -1,0 +1,74 @@
+[
+	{
+	'numero' : 1,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 2,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 3,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 4,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 5,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 6,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : false,
+	},
+	{
+	'numero' : 7,
+	'maxPessoas' : 10,
+	'internet' : true,
+	'tv_webcam' : false,
+	},
+	{
+	'numero' : 8,
+	'maxPessoas' : 3,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 9,
+	'maxPessoas' : 3,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 10,
+	'maxPessoas' : 3,
+	'internet' : true,
+	'tv_webcam' : true,
+	},
+	{
+	'numero' : 11,
+	'maxPessoas' : 20,
+	'internet' : false,
+	'tv_webcam' : false,
+	},
+	{
+	'numero' : 12,
+	'maxPessoas' : 20,
+	'internet' : false,
+	'tv_webcam' : false,
+	}
+]
